@@ -1,0 +1,1 @@
+tailwind + daisy ui
